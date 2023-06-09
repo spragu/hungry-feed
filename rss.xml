@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>CSprague Dev/AI/CC Updates</title>
+  <link>http://www.csprague-blog.com</link>
+  <description>This is CSprague's blog on AI, Confidential Computing, and Software Development</description>
+  <item>
+    <title>Unveiling The Mysteries of Confidential Computing</title>
+    <link>http://www.csprague-blog.com/confidential-computing-1</link>
+    <description>Confidential Computing is a game changer for data security. We delve into what it is and why it matters.</description>
+    <pubDate>Tue, 30 May 2023 14:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Exploring New Developments in AI</title>
+    <link>http://www.csprague-blog.com/AI-developments</link>
+    <description>A roundup of the latest advancements in Artificial Intelligence and what they mean for the future of technology.</description>
+    <pubDate>Mon, 29 May 2023 10:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Developer's Toolkit: Essential Tools in 2023</title>
+    <link>http://www.csprague-blog.com/dev-toolkit-2023</link>
+    <description>A review of the top software development tools for 2023. Stay ahead with these essential picks.</description>
+    <pubDate>Sun, 28 May 2023 11:00:00 GMT</pubDate>
+  </item>
+</channel>
+
+</rss>
